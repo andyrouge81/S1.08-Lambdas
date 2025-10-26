@@ -1,4 +1,4 @@
-package Level1.exercise5L1;
+package Level1.exercise5L1.interfaces;
 
 @FunctionalInterface
 public interface PiValueInterface {
