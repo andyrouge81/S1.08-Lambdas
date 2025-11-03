@@ -1,6 +1,6 @@
-package Level1.exercise8L1;
+package Level1.exercise8;
 
-import Level1.exercise8L1.interfaces.ReverseInterface;
+import Level1.exercise8.interfaces.ReverseInterface;
 
 public class Main {
 	public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Main {
 		String originalWord = "Manolocabezabolo";
 		String reverseWord = reversed.reverse(originalWord);
 
-		System.out.println("The original word is, "+originalWord+ " the reversed one is: "+reverseWord);
+		System.out.println("The original word is, "+originalWord+ ", the reversed one is: "+reverseWord);
 
 
 

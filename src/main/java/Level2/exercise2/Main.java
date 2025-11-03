@@ -1,4 +1,4 @@
-package Level2.exercise2L2;
+package Level2.exercise2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -17,7 +17,7 @@ public class Main {
 	public static String callEvenOddNumbers(List<Integer> numbers){
 
 		return numbers.stream()
-					   .map(s -> (s % 2== 0 ? "e" : "o")+ s)
+					   .map(s -> (s % 2 == 0 ? "e" : "o")+ s)
 					   .collect(Collectors.joining(","));
 	}
 }

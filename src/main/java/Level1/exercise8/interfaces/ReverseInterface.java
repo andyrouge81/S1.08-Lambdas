@@ -1,4 +1,4 @@
-package Level1.exercise8L1.interfaces;
+package Level1.exercise8.interfaces;
 @FunctionalInterface
 public interface ReverseInterface {
 

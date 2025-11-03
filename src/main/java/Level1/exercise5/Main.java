@@ -1,6 +1,6 @@
-package Level1.exercise5L1;
+package Level1.exercise5;
 
-import Level1.exercise5L1.interfaces.PiValueInterface;
+import Level1.exercise5.interfaces.PiValueInterface;
 
 public class Main  {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Level2.exercise1L2;
+package Level2.exercise1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -18,8 +18,7 @@ public class Main {
 
 	public static List<String> callTeamA(List<String> names){
 		return names.stream()
-				.filter(s ->s.startsWith("A"))
-				.filter(s ->s.length()==3 )
+				.filter(s ->s.startsWith("A") && (s.length()==3))
 				.collect(Collectors.toList());
 
 
