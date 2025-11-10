@@ -14,12 +14,9 @@ public class Main {
 
 
 
-		CalculatorInterface division = (a, b) -> {
-			if (b == 0) throw new ArithmeticException("No zero division");
+		CalculatorInterface division = (a, b) ->  a / b;
 
-			return a / b;
 
-		};
 
 		System.out.println("Addition: "+add.operation(5,3));
 		System.out.println("Subtract: "+subtract.operation(4, 2 ));
