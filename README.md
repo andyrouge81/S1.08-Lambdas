@@ -1,4 +1,4 @@
-# S1.06 - Java Lambdas & Functional Interfaces 🧠⚡
+# S1.08 - Java Lambdas & Functional Interfaces 🧠⚡
 
 ## 🧾 Task Objectives
 
@@ -128,7 +128,7 @@ If you're using Maven, include this dependency for testing with JUnit (optional)
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/S1.06-Lambdas.git
+    git clone https://github.com/andyrouge81/S1.08-Lambdas.git
 
 2. Open the project with your preferred IDE.
 3. Run the Main.java or related files to test each exercise.
@@ -169,6 +169,6 @@ This is a practice-based educational project. It’s not intended for deployment
 
 ## 💌 Contact
 
-For questions or feedback, feel free to open an Issue or reach out via [GitHub Profile](https://github.com/your-username/S1.06-Lambdas.git)
+For questions or feedback, feel free to open an Issue or reach out via [GitHub Profile](https://github.com/your-username/S1.08-Lambdas.git)
 
 
